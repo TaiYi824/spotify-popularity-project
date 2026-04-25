@@ -1,0 +1,10 @@
+{
+  "roc_auc": 0.9152823920265781,
+  "accuracy": 0.89,
+  "precision": 0.8947368421052632,
+  "recall": 0.9883720930232558,
+  "brier_score": 0.07492873887227146,
+  "precision_at_top_10pct": 1.0,
+  "sample_size": 100,
+  "positive_rate": 0.86
+}

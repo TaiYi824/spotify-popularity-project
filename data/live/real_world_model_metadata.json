@@ -1,0 +1,12 @@
+{
+  "label_definition": "1 if the track stays on the next collected chart snapshot, else 0",
+  "metrics": {
+    "roc_auc": 0.8333333333333333,
+    "accuracy": 0.92,
+    "base_rate": 0.86,
+    "n_rows": 100.0,
+    "n_train": 75.0,
+    "n_test": 25.0
+  },
+  "input_snapshot_file": "data/live/lastfm_top_tracks_snapshots.csv"
+}

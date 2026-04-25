@@ -1,0 +1,7 @@
+{
+  "rows": 100,
+  "snapshot_date": "2026-04-25",
+  "csv_path": "data/live/lastfm_top_tracks_snapshots.csv",
+  "db_path": "data/live/music_live_monitor.sqlite",
+  "latest_path": "data\\live\\lastfm_top_tracks_latest.csv"
+}

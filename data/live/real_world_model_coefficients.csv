@@ -1,0 +1,12 @@
+feature,coefficient
+num__track_age_years_proxy,0.5252039837267221
+num__log_lastfm_playcount,0.3021214233082347
+num__chart_rank_inv,0.15060402553450922
+cat__musicbrainz_primary_type_EP,0.1410696667365278
+cat__musicbrainz_primary_type_Single,0.07878075396939495
+cat__musicbrainz_primary_type_Other,0.05875711108890123
+cat__musicbrainz_primary_type_Broadcast,0.030718437080624335
+num__log_lastfm_listeners,-0.0517454682724572
+num__track_duration_min,-0.11421271209376156
+cat__musicbrainz_primary_type_Album,-0.30874023581844123
+num__chart_rank,-1.954956666073179
